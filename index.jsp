@@ -15,7 +15,7 @@
     </form>
 
     <br/>
-    <a href="https://example.com">Visit Example with update 1</a>
+    <a href="https://example.com">Visit Example with update 2</a>
 
     <%
         if (username != null && !username.trim().isEmpty()) {
